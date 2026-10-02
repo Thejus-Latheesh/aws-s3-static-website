@@ -22,6 +22,3 @@ User → S3 Bucket → index.html → Website
 - How S3 serves static content
 - How bucket policies control access
 - Why AWS recommends CloudFront for secure hosting
-
-## Live Demo
-http://YOUR-BUCKET-NAME.s3-website-us-east-1.amazonaws.com
