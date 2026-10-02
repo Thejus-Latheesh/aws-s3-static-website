@@ -1,0 +1,4 @@
+body { font-family: Arial; text-align: center; background: #f0f4f8; }
+h1 { color: #232f3e; }
+.menu { background: #232f3e; padding: 15px; margin-bottom: 30px; }
+.menu a { color: white; text-decoration: none; margin: 0 8px; }
